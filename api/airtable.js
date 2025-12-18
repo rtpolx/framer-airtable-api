@@ -1,7 +1,7 @@
 // airtable.js
 
 // For Node 18+, fetch is globally available. Uncomment the next line if using older Node versions
-import fetch from "node-fetch";
+// import fetch from "node-fetch";
 
 // Ensure Vercel parses JSON body
 export const config = {
